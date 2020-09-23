@@ -15,9 +15,9 @@ A pre-print (i.e. before the editorial changes) version of the paper is availabl
 ### Citation request
 If you have found part of our work useful please cite it as follows:
 
-K. Malialis, C. G. Panayiotou and M. M. Polycarpou, "Online Learning With Adaptive Rebalancing in Nonstationary Environments," in IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2020.3017863.
+- K. Malialis, C. G. Panayiotou and M. M. Polycarpou, "Online Learning With Adaptive Rebalancing in Nonstationary Environments," in IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2020.3017863.
 
-K. Malialis, C. Panayiotou and M. M. Polycarpou, Queue-based resampling for online class imbalance learning, in Proceedings of the 27th International Conference on Artificial Neural Networks (ICANN), 2018.
+- K. Malialis, C. Panayiotou and M. M. Polycarpou, Queue-based resampling for online class imbalance learning, in Proceedings of the 27th International Conference on Artificial Neural Networks (ICANN), 2018.
 
 ### Instructions
 Instructions on how to reproduce the experiments in the paper are given in the *main_synthetic.py* file.
@@ -26,7 +26,7 @@ Instructions on how to reproduce the experiments in the paper are given in the *
 The code has been generated and tested with the following:
 - Python 3.7
 - tensorflow 1.13.2
-- Keras 2.2.4
+- keras 2.2.4
 - numpy 1.17.4
 - pandas 0.25.3
 
